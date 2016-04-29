@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2013 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="Style1" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region style="Style1" xml:id="CaptionArea" tts:origin="0c 12.6c" tts:extent="32c 2.4c" tts:backgroundColor="rgba(0,0,0,160)" tts:displayAlign="center" tts:padding="0.3c 0.5c" />
+    </layout>
+    <recognizability>0.954</recognizability>
+  </head>
+  <body region="CaptionArea">
+    <div>
+      <p begin="00:00:01.960" end="00:00:03.890">Good morning everyone and welcome</p>
+      <p begin="00:00:03.890" end="00:00:08.970">ma to data-driven event today it's great to be in new york on</p>
+      <p begin="00:00:08.970" end="00:00:13.410">...in...in fact the last time I was in new york</p>
+      <p begin="00:00:13.410" end="00:00:18.660">was for our devices launch and it's great to be back here for none of</p>
+      <p begin="00:00:18.660" end="00:00:23.560">those super important milestone for us at microsoft with our data</p>
+      <p begin="00:00:23.560" end="00:00:28.660">technologies and platform launch today it's a huge business for us but,</p>
+      <p begin="00:00:28.660" end="00:00:33.440">more than that what is important is the broad impact that transformed</p>
+      <p begin="00:00:33.440" end="00:00:38.850">...it's...our customers and here we are to talk about a lot of the technology</p>
+      <p begin="00:00:38.850" end="00:00:44.530">and the impact in fact I travel around the world and</p>
+      <p begin="00:00:44.530" end="00:00:47.780">talked to lots of customers' partners?</p>
+      <p begin="00:00:47.780" end="00:00:50.560">Others government leaders it's</p>
+      <p begin="00:00:50.560" end="00:00:55.350">clear the digital transformation of every part of</p>
+      <p begin="00:00:55.350" end="00:01:00.060">society and economy is top of mind to these leaders.</p>
+      <p begin="00:01:00.060" end="00:01:04.270">And, then when you in fact people talk about this fourth industrial</p>
+      <p begin="00:01:04.270" end="00:01:08.520">...just like the first three with steam</p>
+      <p begin="00:01:08.520" end="00:01:13.410">...and information technology it had a pretty broad impact</p>
+      <p begin="00:01:13.410" end="00:01:17.770">in the way we live the way we work the way we entertain ourselves</p>
+      <p begin="00:01:17.770" end="00:01:21.990">the way we communicate and now when we talk about this for</p>
+      <p begin="00:01:21.990" end="00:01:28.200">the industrial revolution with digital technology we're talking...having perhaps even</p>
+      <p begin="00:01:28.200" end="00:01:35.280">a broader deeper impact on all those aspects of our lives?</p>
+      <p begin="00:01:35.280" end="00:01:40.220">it's interesting to sort of look back and sort of say what is it that causes that transform,</p>
+      <p begin="00:01:40.220" end="00:01:42.470">transform of impact.</p>
+      <p begin="00:01:42.470" end="00:01:46.930">What is the confluence of circumstances that brings that transformation</p>
+      <p begin="00:01:46.930" end="00:01:48.330">about?</p>
+      <p begin="00:01:48.330" end="00:01:50.480">This definitely technology</p>
+      <p begin="00:01:50.480" end="00:01:55.290">the technology that connects everything there is not a place</p>
+      <p begin="00:01:55.290" end="00:02:00.180">a person or a thing that is not connected.</p>
+      <p begin="00:02:00.180" end="00:02:01.260">All of these connected.</p>
+      <p begin="00:02:02.320" end="00:02:05.670">Entities create lots and lots of data</p>
+      <p begin="00:02:05.670" end="00:02:10.280">...one estimate is that we already have something like ten z...bytes of data and then by twenty,</p>
+      <p begin="00:02:10.280" end="00:02:14.150">twenty we will have fifty...bytes of data.</p>
+      <p begin="00:02:14.150" end="00:02:16.390">And, the question then of course is how is all this</p>
+      <p begin="00:02:16.390" end="00:02:19.890">data being used there is a new form of computing.</p>
+      <p begin="00:02:21.040" end="00:02:26.410">That is also simultaneously developing called cloud computing this is a way</p>
+      <p begin="00:02:26.410" end="00:02:29.150">the brain storage compute network in</p>
+      <p begin="00:02:29.150" end="00:02:33.990">a completely different way so that you can deal with this level and the scale of data</p>
+      <p begin="00:02:33.990" end="00:02:38.570">and turn that and process that and can word it?</p>
+      <p begin="00:02:38.570" end="00:02:42.630">So, it's that circuit it's that new beginning</p>
+      <p begin="00:02:42.630" end="00:02:44.880">all of a set of technologies that are</p>
+      <p begin="00:02:44.880" end="00:02:50.560">...involving having everything connected generating lots of data</p>
+      <p begin="00:02:50.560" end="00:02:55.060">and having a new form of computing that can in fact process all of that</p>
+      <p begin="00:02:55.060" end="00:02:58.550">data that's bringing forth this digital transformation.</p>
+      <p begin="00:02:59.940" end="00:03:03.240">And, we think that...digital transformations impact</p>
+      <p begin="00:03:03.240" end="00:03:06.080">...the very beginning of it it's in the years</p>
+      <p begin="00:03:06.080" end="00:03:10.610">and the decades to calm that we will truly understand and realize the</p>
+      <p begin="00:03:10.610" end="00:03:15.910">benefits it's also going to be a tumultuous period of change.</p>
+      <p begin="00:03:15.910" end="00:03:20.530">For us in our businesses and how we navigate that is going</p>
+      <p begin="00:03:20.530" end="00:03:23.040">to be at a premium?</p>
+      <p begin="00:03:23.040" end="00:03:26.590">And, to asks the question...course is what is microsoft</p>
+      <p begin="00:03:26.590" end="00:03:31.350">doing in data in fact the way we start is to think of data</p>
+      <p begin="00:03:31.350" end="00:03:36.330">paths this new electricity because I think that's the best.</p>
+      <p begin="00:03:36.330" end="00:03:39.130">Way to characterize the our of data and it's</p>
+      <p begin="00:03:39.130" end="00:03:45.350">transformed apollo it's more than just data by itself it</p>
+      <p begin="00:03:45.350" end="00:03:49.970">is the ability to unlock from data the</p>
+      <p begin="00:03:49.970" end="00:03:54.880">...and intelligence that is going to create that...it's</p>
+      <p begin="00:03:54.880" end="00:03:59.820">moving from having lots of data to creating.</p>
+      <p begin="00:03:59.820" end="00:04:01.280">Predictive our</p>
+      <p begin="00:04:01.280" end="00:04:05.790">an analytical our inside of every organization that's what the</p>
+      <p begin="00:04:05.790" end="00:04:09.830">fourth industrial revolution is all about and that's what we're focused on in fact</p>
+      <p begin="00:04:09.830" end="00:04:14.420">we draw inspiration from everything we do at microsoft from</p>
+      <p begin="00:04:14.420" end="00:04:18.820">our mission our mission at microsoft is to empower every</p>
+      <p begin="00:04:18.820" end="00:04:23.660">person and every organization on the planet to achievable these</p>
+      <p begin="00:04:23.660" end="00:04:27.290">are just a set of words for us in fact it's a guide.</p>
+      <p begin="00:04:27.290" end="00:04:31.710">That reminds us every day about the choices we make whether it be</p>
+      <p begin="00:04:31.710" end="00:04:36.080">a customer interaction or a product design decision so that</p>
+      <p begin="00:04:36.080" end="00:04:38.230">we are doing things that we can uniquely</p>
+      <p begin="00:04:38.230" end="00:04:41.970">do and contributed as a company and more importantly that</p>
+      <p begin="00:04:41.970" end="00:04:47.650">...useful and impactful for our customers so when you look at it through that lens.</p>
+      <p begin="00:04:47.650" end="00:04:51.630">What we're trying to get done in data comes to focus,</p>
+      <p begin="00:04:51.630" end="00:04:54.020">for example, we as an company focus a</p>
+      <p begin="00:04:54.020" end="00:04:57.620">lot on both people and organizations</p>
+      <p begin="00:04:57.620" end="00:05:02.200">we deeply believe in the our of institutions companies</p>
+      <p begin="00:05:02.200" end="00:05:06.420">non-profits public sector we think that institutions</p>
+      <p begin="00:05:06.420" end="00:05:10.190">...what build economies and societies and of course institutions</p>
+      <p begin="00:05:10.190" end="00:05:14.050">are built by people so that connection between how people</p>
+      <p begin="00:05:14.050" end="00:05:18.900">come together and how institutions tribe using technologies</p>
+      <p begin="00:05:18.900" end="00:05:23.880">front-and-center to us so when we talk about data that notion of being able to take</p>
+      <p begin="00:05:23.880" end="00:05:28.510">lots of data and convert it into better decisions better</p>
+      <p begin="00:05:28.510" end="00:05:33.150">judgment better intelligence is the most important</p>
+      <p begin="00:05:33.150" end="00:05:34.800">thing that we think about</p>
+      <p begin="00:05:34.800" end="00:05:39.840">as we build-up products we also think about it from a global scale?</p>
+      <p begin="00:05:39.840" end="00:05:43.660">Up in fact a round data but at the very beginning</p>
+      <p begin="00:05:43.660" end="00:05:47.680">of even understanding what are the frameworks of law what</p>
+      <p begin="00:05:47.680" end="00:05:52.420">are the regulations because...gotta be enduring principles that you</p>
+      <p begin="00:05:52.420" end="00:05:56.340">have to navigate and keep constant.</p>
+      <p begin="00:05:56.340" end="00:06:00.040">For example, the set of security how</p>
+      <p begin="00:06:00.040" end="00:06:04.920">...want to keep data secure how is it going to be private how is</p>
+      <p begin="00:06:04.920" end="00:06:09.300">it going to be transparent to the users in terms of what the data is being useful</p>
+      <p begin="00:06:09.300" end="00:06:14.130">and then compliance these are the enjoying principles on a worldwide</p>
+      <p begin="00:06:14.130" end="00:06:18.610">basis not just in one jurisdiction not one-in-one country but</p>
+      <p begin="00:06:18.610" end="00:06:22.670">on a worldwide basis that you have to really think through not just</p>
+      <p begin="00:06:22.670" end="00:06:29.310">after the fact but in the design decisions of the products that you use in the products that you built.</p>
+      <p begin="00:06:29.310" end="00:06:30.640">And, lastly.</p>
+      <p begin="00:06:30.640" end="00:06:32.510">More than anything else it's that notion</p>
+      <p begin="00:06:32.510" end="00:06:37.600">of achievement for us success does not...</p>
+      <p begin="00:06:37.600" end="00:06:40.910">In launching products in fact I sort of</p>
+      <p begin="00:06:40.910" end="00:06:44.770">a joke internally that we should not have launch events we should only have</p>
+      <p begin="00:06:44.770" end="00:06:48.390">customers successive events because it's really not a marker</p>
+      <p begin="00:06:48.390" end="00:06:53.170">of any progress if all we do is launch technology and release</p>
+      <p begin="00:06:53.170" end="00:06:57.390">products it is only useful when it is being transformed.</p>
+      <p begin="00:06:58.490" end="00:07:05.160">By our customers in fact we're...</p>
+      <p begin="00:07:05.160" end="00:07:09.120">Microsoft is really about digital technology from each one</p>
+      <p begin="00:07:09.120" end="00:07:13.120">of our customers and we want to provide the broad platforms that</p>
+      <p begin="00:07:13.120" end="00:07:17.770">helps create that that's at the center of our mission this</p>
+      <p begin="00:07:17.770" end="00:07:22.620">transformation is well on its way you get these early signs every</p>
+      <p begin="00:07:22.620" end="00:07:27.390">a block or every error has the harbinger of what's</p>
+      <p begin="00:07:27.390" end="00:07:33.670">...to calm what is the way this transformation will play out can</p>
+      <p begin="00:07:33.670" end="00:07:38.170">forecasted if you will by looking at some of the early customers, for example,</p>
+      <p begin="00:07:38.170" end="00:07:43.370">in our case we're very inspired by some of the business transformation stories take</p>
+      <p begin="00:07:43.370" end="00:07:46.520">piston crop which is an elevated company out of the</p>
+      <p begin="00:07:46.520" end="00:07:50.840">heart of germany has over a million elevators they</p>
+      <p begin="00:07:50.840" end="00:07:55.340">were now able to connect all of those million machine elevators into connected</p>
+      <p begin="00:07:55.340" end="00:08:00.280">smart elevators transform the business model from having.</p>
+      <p begin="00:08:00.280" end="00:08:03.520">Reactive repairs on elevators</p>
+      <p begin="00:08:03.520" end="00:08:08.360">to proactive up diamond la as new service contracts.</p>
+      <p begin="00:08:08.360" end="00:08:12.820">So, that is not just a bunch of digital services they created but it's a fundamental</p>
+      <p begin="00:08:12.820" end="00:08:17.890">shift in the business model you'll hear later from johnson controls how</p>
+      <p begin="00:08:17.890" end="00:08:22.770">...are going through this transformation...built building control systems for a</p>
+      <p begin="00:08:22.770" end="00:08:27.630">long-time but now they're all connected and, now because of that connection in</p>
+      <p begin="00:08:27.630" end="00:08:32.190">their analytical capabilities...transforming not only the sla that they can</p>
+      <p begin="00:08:32.190" end="00:08:37.810">...to their customers but more importantly energy consumption which</p>
+      <p begin="00:08:37.810" end="00:08:44.369">is obviously of super important thing not only for their customers but for us as a society.</p>
+      <p begin="00:08:44.369" end="00:08:47.739">You take a look at prewar which is a fascinating story it's a</p>
+      <p begin="00:08:47.739" end="00:08:51.989">start-up out of london in fact they went and took all</p>
+      <p begin="00:08:51.989" end="00:08:56.579">of the underground air raid shelters from world war two and converted</p>
+      <p begin="00:08:56.579" end="00:09:00.019">them into new urban farming sentence.</p>
+      <p begin="00:09:01.549" end="00:09:04.839">And, again, why...they able to do that they were able to do that</p>
+      <p begin="00:09:04.839" end="00:09:09.729">...because of y ot sensors and the ability to do farming</p>
+      <p begin="00:09:09.729" end="00:09:15.810">in agriculture and improve its productivity in a completely new way?</p>
+      <p begin="00:09:15.810" end="00:09:18.440">You look at even...whether.</p>
+      <p begin="00:09:18.440" end="00:09:23.590">They've always had rather data and they've had consumer products.</p>
+      <p begin="00:09:23.590" end="00:09:28.530">now they're not only taking a historical weather and their predictive our in terms of weather</p>
+      <p begin="00:09:28.530" end="00:09:33.330">forecasts and making it available to other business so if you</p>
+      <p begin="00:09:33.330" end="00:09:37.370">...manufacturer...retailer think about both</p>
+      <p begin="00:09:37.370" end="00:09:40.980">your supply chain and your inventory efficiency.</p>
+      <p begin="00:09:42.220" end="00:09:47.210">Because of this new capability that you have to be able to use weather predictions as a way</p>
+      <p begin="00:09:47.210" end="00:09:53.630">to predict what may happen in terms of consumer behavior and product sell true.</p>
+      <p begin="00:09:53.630" end="00:09:59.800">You see document hitchcock completely transform what personalized care would</p>
+      <p begin="00:09:59.800" end="00:10:04.190">They're building in systems where they're not only collect data with the</p>
+      <p begin="00:10:04.190" end="00:10:07.910">...and privacy and all of the compliance requirements</p>
+      <p begin="00:10:07.910" end="00:10:12.910">but to transform it to better health outcomes for their patients remote</p>
+      <p begin="00:10:12.910" end="00:10:17.640">monitoring personalized care are just new digital</p>
+      <p begin="00:10:17.640" end="00:10:23.550">products and services that they're creating so this transformation</p>
+      <p begin="00:10:23.550" end="00:10:26.900">is very broad and there is industrial, industrial</p>
+      <p begin="00:10:27.920" end="00:10:31.530">company after company that's going through this.</p>
+      <p begin="00:10:31.530" end="00:10:32.670">In fact I like to think</p>
+      <p begin="00:10:32.670" end="00:10:37.430">about even microsoft is changing because of data.</p>
+      <p begin="00:10:37.430" end="00:10:42.140">Even this morning when I got up I went to my our by reports to look at the</p>
+      <p begin="00:10:42.140" end="00:10:47.860">usage stats across all of our services from last night and it's not something I</p>
+      <p begin="00:10:47.860" end="00:10:52.710">used to do even a couple of years ago but now if you sort of look at any</p>
+      <p begin="00:10:52.710" end="00:10:57.380">one at microsoft the very nature of how we build</p>
+      <p begin="00:10:57.380" end="00:11:02.010">products how we instrument them to be able to take data from</p>
+      <p begin="00:11:02.010" end="00:11:06.640">them and use that to make better decisions about what comes next</p>
+      <p begin="00:11:06.640" end="00:11:08.240">was blind.</p>
+      <p begin="00:11:08.240" end="00:11:10.040">Faith in our own conviction</p>
+      <p begin="00:11:11.150" end="00:11:15.920">...completely changed how we think about product development in fact I</p>
+      <p begin="00:11:15.920" end="00:11:19.660">would say it's this data signs and design are two things</p>
+      <p begin="00:11:19.660" end="00:11:25.500">that are changing how we think about even product development at the core.</p>
+      <p begin="00:11:25.500" end="00:11:27.030">How we measure success?</p>
+      <p begin="00:11:28.390" end="00:11:31.220">Ceos we're all responsible for showing up every</p>
+      <p begin="00:11:31.220" end="00:11:36.240">quarter especially for people in new york and talk about our success.</p>
+      <p begin="00:11:36.240" end="00:11:41.520">When we know that success that we talk about on those quarterly calls are lagging</p>
+      <p begin="00:11:41.520" end="00:11:42.210">indicators</p>
+      <p begin="00:11:42.210" end="00:11:47.700">not leading indicators and the real trick is how are we</p>
+      <p begin="00:11:47.700" end="00:11:52.290">as organizational an organization leaders in touch?</p>
+      <p begin="00:11:52.290" end="00:11:54.410">With those leading indicators of success.</p>
+      <p begin="00:11:55.450" end="00:11:57.220">Some of our best people</p>
+      <p begin="00:11:57.220" end="00:12:01.960">inside are people who are defining those needing indicate a metrics.</p>
+      <p begin="00:12:01.960" end="00:12:07.920">So, that we know that this has predictive our of future success.</p>
+      <p begin="00:12:07.920" end="00:12:11.590">So, it's having this very broad impact on how</p>
+      <p begin="00:12:11.590" end="00:12:16.030">we build products how we measure success and how we</p>
+      <p begin="00:12:16.030" end="00:12:19.800">even engage our employees...one of the products that we</p>
+      <p begin="00:12:19.800" end="00:12:24.590">have at microsoft is called organizational analytics and the idea</p>
+      <p begin="00:12:24.590" end="00:12:29.260">here is to be able to give individuals at microsoft or</p>
+      <p begin="00:12:29.260" end="00:12:33.600">anyone who uses office three six five the our to reason over</p>
+      <p begin="00:12:33.600" end="00:12:37.650">their most precious commodity which is time</p>
+      <p begin="00:12:37.650" end="00:12:40.880">so they can use that time wisely?</p>
+      <p begin="00:12:40.880" end="00:12:43.940">And, the fact that I can just like how I get my health data</p>
+      <p begin="00:12:43.940" end="00:12:48.300">from my band I can in fact look at the number of meetings I'm having how many how much of</p>
+      <p begin="00:12:48.300" end="00:12:52.420">that time is being spent with external customershow much of it is being</p>
+      <p begin="00:12:52.420" end="00:12:57.270">...on real issues that matter all of that intelligence in fact shapes</p>
+      <p begin="00:12:57.270" end="00:13:01.730">how allocate my time going forward so those just examples of what is real</p>
+      <p begin="00:13:01.730" end="00:13:05.650">for meaning in my daily life in terms of how you in</p>
+      <p begin="00:13:05.650" end="00:13:12.580">calculating these data products inside of our own behaviors actions and culture?</p>
+      <p begin="00:13:12.580" end="00:13:16.240">And, today what you'll hear about is a lot of the technology...</p>
+      <p begin="00:13:17.760" end="00:13:21.260">broad deep digital data platform.</p>
+      <p begin="00:13:22.500" end="00:13:23.380">This platform.</p>
+      <p begin="00:13:24.680" end="00:13:29.390">Is going to help every business become a software business a</p>
+      <p begin="00:13:29.390" end="00:13:35.200">data business and intelligence business that's our vision we want them to be able to</p>
+      <p begin="00:13:35.200" end="00:13:39.970">take not only their data collected in large amounts storage</p>
+      <p begin="00:13:39.970" end="00:13:42.620">secure me process it but convert</p>
+      <p begin="00:13:42.620" end="00:13:49.130">it into insights and intelligence that analytical and predictive our?</p>
+      <p begin="00:13:49.130" end="00:13:51.360">We not only we also want to</p>
+      <p begin="00:13:51.360" end="00:13:54.280">keep everyone not just in the</p>
+      <p begin="00:13:54.280" end="00:13:59.280">it industry but in every sector with the skills</p>
+      <p begin="00:13:59.280" end="00:14:03.810">around data literacy which I think are going to be key.</p>
+      <p begin="00:14:03.810" end="00:14:09.040">For jobs of the future competitiveness of the future.</p>
+      <p begin="00:14:09.040" end="00:14:13.680">So, that's what the rest of today is all about it's about technology but</p>
+      <p begin="00:14:13.680" end="00:14:18.670">it's in technology in your hands in our customers' hands and how it is</p>
+      <p begin="00:14:18.670" end="00:14:21.660">setting the stage for their own transformation?</p>
+      <p begin="00:14:23.220" end="00:14:28.210">Their own digital transformation and that's what you want to hear about the rest of</p>
+      <p begin="00:14:28.210" end="00:14:33.630">the day and I'm really excited because this business is a very critical business and as I</p>
+      <p begin="00:14:33.630" end="00:14:36.590">said the very...for me it is that</p>
+      <p begin="00:14:36.590" end="00:14:40.500">...our that this technology has the</p>
+      <p begin="00:14:40.500" end="00:14:45.410">fact that this speaks to the very core of the microsoft mission of how</p>
+      <p begin="00:14:45.410" end="00:14:50.060">we can bring digital technology that empowers every person</p>
+      <p begin="00:14:50.060" end="00:14:54.380">in every organization on the planet to achieve more and today is a very</p>
+      <p begin="00:14:54.380" end="00:14:59.760">big milestone in that process thank you very much and at this point I'll have scott got three</p>
+      <p begin="00:14:59.760" end="00:15:14.430">who leads our data platform and cloud platform teams to come up on stage.</p>
+
+    </div>
+  </body>
+</tt>

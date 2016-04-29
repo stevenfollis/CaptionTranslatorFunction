@@ -1,0 +1,23 @@
+{
+    "bindings": [
+        {
+            "webHookType": "genericJson",
+            "type": "httpTrigger",
+            "direction": "in",
+            "name": "req"
+        },
+        {
+            "type": "http",
+            "direction": "out",
+            "name": "res"
+        },
+        {
+            "name": "outputBlob",
+            "type": "blob",
+            "path": "output/%rand-guid%.ttml",
+            "connection": "captioner_STORAGE",
+            "direction": "out"
+        }
+    ],
+    "disabled": false
+}
