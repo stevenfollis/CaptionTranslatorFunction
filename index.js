@@ -55,24 +55,12 @@ module.exports = function (context, data) {
 
   function getFile(url, callback) {
 
-    // Check if local test file or HTTP url
-    // TODO: Remove this
-    if (url.substring(0, 4) === 'http') {
+    // Use the request library to retrieve the file
+    request(url, function (error, response, body) {
 
-      // Use the request library to retrieve the file
-      request(url, function (error, response, body) {
+      callback(body);
 
-        callback(body);
-
-      });
-
-    }
-    else {
-
-      // URL is a file on the local filesystem. Use fs
-      callback(fs.readFileSync(url).toString());
-
-    }
+    });
 
   }
 
