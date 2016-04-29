@@ -9,10 +9,14 @@ Services such as the [Azure Media Indexer](https://azure.microsoft.com/en-us/doc
 
 This code is used to power the closed caption feature on video controls, making the content more accessible to all users.   
 
-However, in order to translate these closed captions into a variety of languages we have traditionally had to rely on human typists.  This is time consuming and expensive.  Instead, we can utilize Bing Translate to programmatically translate our content at a fraction of the cost and time.
+However, in order to translate these closed captions into a variety of languages we have traditionally had to rely on human typists.  This is time consuming and expensive.  Instead, we can utilize Bing Translate to programmatically translate our content at a fraction of the cost and time. The sample lines before are translated as:
 
->   ### TODO:
->   ### Eventually this will be more automated, but for now relies on manual triggering. This is one piece in a larger solution to be developed.
+    <p begin="00:00:01.960" end="00:00:03.890">Buenos días todo el mundo y damos la bienvenida</p>
+    <p begin="00:00:03.890" end="00:00:08.970">MA basado en datos evento hoy es genial estar en Nueva york en</p>
+    <p begin="00:00:08.970" end="00:00:13.410">... en... de hecho la última vez que estuve en Nueva york</p>
+
+>   TODO:
+>   Eventually this will be more automated, but for now relies on manual triggering. This is one piece in a larger solution to be developed.
 
 ## Configuration
 *   Follow the Getting Started [steps over](https://www.microsoft.com/en-us/translator/getstarted.aspx) at the Bing Maps API 
